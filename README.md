@@ -1,4 +1,4 @@
-# passthrough
+# Passthrough
 Example scripts using passthrough for AMD GPU
 
 I followed this video on Youtube to configure passthrough for my PC.
